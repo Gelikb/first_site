@@ -337,13 +337,14 @@ label, a{
 }
 .mainContact{
     background-image: linear-gradient(rgba(255, 200, 117, 0.5), rgba(238, 67, 250, 0.5));
-    margin-left: 420px;
+margin-left: 420px;
     height: 100px;
     width: 800px;
     border-radius: 24px;
     display: flex;
     font-size: 20px;
     color: white;
+    align-items: center;
     justify-content: space-around;
 }
 .contactsButton{
