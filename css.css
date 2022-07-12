@@ -99,6 +99,12 @@ h2{
     text-shadow: 0 0 12.8px rgb(255 255 255);
     text-align: center;
 }
+.h2_info{
+    text-shadow: 0 0 12.8px rgb(255 255 255);
+    text-align: center;
+    margin-bottom: -10px;
+}
+
 .buttonA{
     color: white;
     border: 3.2px solid white;
